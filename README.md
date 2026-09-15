@@ -9,4 +9,5 @@ Note: Rhythm can be programmed in the receiver code, or use the preset 120 bpm o
 ### Dependencies
 ESP32 Dev Module
 
-# Video of Robot
+### Video of Robot
+### [Gong Robot Proof of Life](https://www.youtube.com/watch?v=NfiHfvFchhE)
